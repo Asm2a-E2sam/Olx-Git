@@ -102,6 +102,10 @@
     }
   },
   "cli": {
+<<<<<<< HEAD
+    "analytics": "bc7b7703-689b-4f3e-91c7-4c827a551d16"
+=======
     "analytics": "3a3e8e37-9d15-4b5a-b82f-5b0bbfb5a5c5"
+>>>>>>> asmaa
   }
 }
